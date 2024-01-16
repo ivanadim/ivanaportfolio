@@ -2,13 +2,13 @@
     <div class="footer">
         <div class="bg-white d-flex justify-center w-100 social-icon">
             <a href="https://github.com/ivanadim" target="_blank"><i
-                    class="fa-brands fa-github fa-shake fa-xl d-flex align-center icon"></i></a>
+                    class="fa-brands fa-github fa-xl d-flex align-center icon"></i></a>
             <a href="https://www.linkedin.com/in/ivana-dimitrova-253656253/" target="_blank"><i
-                    class="fa-brands fa-linkedin-in fa-shake fa-xl d-flex align-center icon" target="_blank"></i></a>
+                    class="fa-brands fa-linkedin-in  fa-xl d-flex align-center icon" target="_blank"></i></a>
             <a href="https://www.instagram.com/iddesign3333/" target="_blank"><i
-                    class=" fa-brands fa-square-instagram fa-shake fa-xl d-flex align-center icon"></i></a>
+                    class=" fa-brands fa-square-instagram  fa-xl d-flex align-center icon"></i></a>
             <a href="https://www.behance.net/ivananikolova1" target="_blank"> <i
-                    class="fa-brands fa-square-behance fa-shake fa-xl d-flex align-center icon"></i></a>
+                    class="fa-brands fa-square-behance  fa-xl d-flex align-center icon"></i></a>
         </div>
     </div>
 </template>
