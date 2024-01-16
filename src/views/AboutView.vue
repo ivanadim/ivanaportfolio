@@ -4,7 +4,6 @@
         <div class="about">
             <div class="imagepart">
                 <div class="image">
-                    <!-- <img src="../assets/img/ivana1bw.png" alt=""> -->
                 </div>
                 <v-title class="title d-sm-none">Ivana <br> Dimitrova
                 </v-title>
